@@ -1,15 +1,13 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Academic projects - Natural Language Processing 
+subtitle: My research and academic projects at UMass Amherst
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: September 2021- May 2022
+description: As a Master's in Computer Science student at the University of Massachusetts Amherst, I have been presented with amazing opportunities to conduct cutting-edge research in Natural language processing with exceptional professors and industry partners like Google.
 
 ---
