@@ -1,5 +1,5 @@
 ---
-title: Data and Applied Science Portfolio @ Microsoft
+title: Data and Applied Science @ Microsoft
 subtitle: Leveraging the story data tells to make business decision
 layout: default
 modal-id: 1
@@ -8,8 +8,7 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: July 2021 - present
-client: Start Bootstrap
-category: Data Science Portfolio
+#category: Data Science Portfolio
 description: As a data and applied scientist I deal with complex cumbersome data every day and my aim is to utilize this data to make business decision. I work at Microsoft Edge browser growth team and my job role inculcates identifying retention and churn opportunities and providing intervention using state-of-the-art Machine learning, Data science and deep learning solutions.
 
 ---
