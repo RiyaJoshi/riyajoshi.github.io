@@ -46,19 +46,19 @@ description: "Write an awesome description for your new site here. You can edit 
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: LinkedIn
+    URL: https://www.linkedin.com/in/riyajoshi/
+ # - title: stack-overflow
+ #   url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket 
+  #  url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/RiyaJoshi
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+#address:
+ # - line: 3481 Melrose Place
+ # - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
